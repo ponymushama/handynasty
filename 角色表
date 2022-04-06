@@ -1,0 +1,320 @@
+# 汉宫大乱斗 V4.5 作者 ama
+
+## 胜利方式
+
+> - <font color='blue'>百官（村民）</font>和<font color='blue'>儒生（外来者）</font>为<font color='blue'>善良阵营</font>，游戏目的是天下大治，即杀死<font color='red'>天子（恶魔）</font>。
+>
+> - <font color='red'>逆贼（爪牙）</font>和<font color='red'>天子（恶魔）</font>为<font color='red'>邪恶阵营</font>，游戏目的是天下大乱，即保护<font color='red'>天子（恶魔）</font>的同时，屠杀<font color='blue'>百官（村民）</font>和<font color='blue'>儒生（外来者）</font>，直至在场还剩下两个存活玩家，其中一个是<font color='red'>天子（恶魔）</font>，另一个是<font color='blue'>百官（村民）</font>或<font color='blue'>儒生（外来者）</font>。
+>
+> - <font color='green'>张楚王</font>和<font color='green'>新朝天子</font>是独赢阵营，胜利方式详见各自的角色描述。
+
+## 裂变
+
+> - 所有游戏在开始时，都默认<font color='red'>逆贼（爪牙）</font>为0。
+> - 游戏进行中，裂变会决定具体的<font color='red'>逆贼（爪牙）</font>数量。
+> - 每一个<font color='red'>天子（恶魔）</font>都有自己的裂变方式，详见各自的角色描述。
+> - 所有裂变的玩家，只能由对应的<font color='blue'>（白）</font>裂变到对应的<font color='red'>（黑）</font>。例如，<font color='blue'>萧何（白）</font>就只会裂变为相对应的<font color='red'>萧何（黑）</font>。
+> - 所有裂变的玩家，都同时拥有两个角色，但只有一条命。例如，<font color='blue'>萧何（白）</font>裂变为<font color='red'>萧何（黑）</font>，玩家1同时拥有这两个角色。
+> - 只要裂变，玩家的阵营就由<font color='red'>（黑）</font>角色的阵营决定。例如，<font color='blue'>萧何（白）</font>裂变为<font color='red'>萧何（黑）</font>，玩家1的阵营是<font color='red'>萧何（黑）</font>所属的<font color='red'>逆贼（爪牙）</font>。
+
+## 转职
+
+> - 转职是玩家失去原来的角色，直接换一个角色，阵营也随之而改变。
+
+## 归天和<font color='orange'>英灵</font>
+
+> - 玩家死亡后，该玩家归天，从而成为一个拥有新能力的<font color='orange'>英灵</font>，阵营也随之而改变。
+> - <font color='orange'>英灵</font>是一种特殊角色，不能说书人选出，只能通过死亡获得，被视为死亡玩家。
+> - 附体的持续时间为一个白天加一个夜晚。
+
+## 颜色
+
+> - <font color='blue'>蓝色</font>是善良阵营。
+> - <font color='red'>红色</font>是邪恶阵营。
+> - <font color='green'>绿色</font>是独赢阵营。
+> - <font color='orange'>橘色</font>是<font color='blue'>英灵</font>。
+
+----
+
+# **<font color='blue'>百官（村民）（12个选出）（7个归天）（1个转职）</font>**
+
+> **<font color='blue'>萧何（白）（可选出）</font>**
+>
+> - **能力：**每个夜晚，得知一个在场的<font color='blue'>百官</font>或<font color='blue'>儒生</font>角色。
+>
+> - **裂变<font color='red'>逆贼</font>：**<font color='red'>萧何（黑）</font>
+
+> **<font color='blue'>张良（白）（可选出）</font>**
+>
+> - **能力：**每个夜晚，选择两个玩家，得知其中是否有<font color='blue'>老百姓</font>。
+>
+> - **裂变<font color='red'>逆贼</font>：**<font color='red'>张良（黑）</font>
+
+> **<font color='blue'>韩信（可选出）</font>**
+>
+> - **能力：**每个夜晚（除首夜），选择两个玩家，如果其中有<font color='blue'>儒生</font>，则该<font color='blue'>儒生</font>死亡，且说书人再选择一个<font color='red'>逆贼</font>死亡。
+> - **转职：**首夜，<font color='blue'>韩信</font>选择一个<font color='red'>天子</font>角色，如果该<font color='red'>天子</font>角色在场，则<font color='blue'>韩信</font>转职为<font color='red'>国士无双</font>，且该<font color='red'>天子</font>转职为<font color='blue'>泗水亭长</font>。
+> - **归天<font color='orange'>英灵</font>：**<font color='orange'>淮阴侯</font>
+
+> **<font color='orange'>淮阴侯（只能归天产生）</font>**
+>
+> - **能力：**游戏限一次，夜晚（除首夜），选择一个玩家，杀死他。如果<font color='red'>天子</font>被杀死，则唯有处决<font color='orange'>淮阴侯</font>，才能天下大治。
+
+> **<font color='blue'>周勃（可选出）</font>**
+>
+> - **能力1：**<font color='blue'>周勃</font>不会裂变为<font color='red'>吕后党羽</font>
+>
+> - **能力2：**每个夜晚（除首夜），<font color='red'>逆贼</font>无法裂变<font color='red'>吕后党羽</font>。
+>
+> - **能力2：**<font color='blue'>周勃</font>只能白天死亡。
+
+> **<font color='blue'>李少君（白）（可选出）</font>**
+>
+> - **能力：**每个白天的公聊阶段，可以公开宣称“服丹药”，选择一名玩家服下丹药。如果该玩家可以裂变、转职或归天，则该玩家立刻裂变、转职或归天。如果该玩家不能裂变、转职或归天，则该玩家死亡。被丹药归天的玩家，会成为存活的归天玩家，该存活的归天玩家不能再次归天。不能连续两天喂同一个玩家丹药。裂变优先于转职优先于归天。
+>
+> - **裂变<font color='red'>逆贼</font>：**<font color='red'>李少君（黑）</font>
+
+> **<font color='blue'>霍光（白）（可选出）</font>**
+>
+> - **能力：**每个夜晚（除首夜），选择两名玩家，说书人飞鸽传书，分别告诉这两个玩家对方的角色是什么。
+>
+> - **裂变<font color='red'>逆贼</font>：**<font color='red'>霍光（黑）</font>
+>
+> - **归天<font color='orange'>英灵</font>：**<font color='orange'>博望侯</font>
+
+<div style="page-break-after:always"></div>
+
+> **<font color='orange'>博望侯（只能归天产生）</font>**
+>
+> - **能力：**游戏限一次，夜晚（除首夜），说书人可能选择<font color='red'>天子</font>转职为<font color='red'>傀儡皇帝</font>。
+
+> **<font color='blue'>霍去病（可选出）</font>**
+>
+> - **能力：**每个夜晚，得知发生了几次裂变。
+>
+> - **归天<font color='orange'>英灵</font>：**<font color='orange'>冠军侯</font>
+
+> **<font color='orange'>冠军侯（只能归天产生）</font>**
+>
+> - **能力：**游戏限一次，白天可以公开选择两个玩家附体，如果其中无<font color='red'>天子</font>，则保护这两个玩家不会死亡。
+
+> **<font color='blue'>李广（可选出）</font>**
+>
+> - **能力：**每个白天，可以公开宣称两个玩家是<font color='red'>逆贼</font>，如果其中有<font color='red'>逆贼</font>，则进入提名阶段，两个玩家自由发言后投票，进行处决。
+>
+> - **归天<font color='orange'>英灵</font>：**<font color='orange'>飞将军</font>
+
+> **<font color='orange'>飞将军（只能归天产生）</font>**
+>
+> - **能力：**每个夜晚（除首夜），选择一个玩家附体，如果该玩家发起提名，则被提名的玩家由说书人指定。
+
+> **<font color='blue'>司马迁（可选出）</font>**
+>
+> - **能力：**每个夜晚，藏一个信息给说书人，如果下一个白天该信息应验，说书人公开宣称“<font color='blue'>司马迁</font>被阉”，<font color='red'>天子</font>立刻得知<font color='blue'>司马迁</font>玩家是谁。如果信息已应验3次（不要求连续），且直到下一个白天<font color='blue'>司马迁</font>没有死亡，则天下大治。
+>
+> - **归天<font color='orange'>英灵</font>：**<font color='orange'>太史公</font>
+
+> **<font color='orange'>太史公（只能归天产生）</font>**
+>
+> - **能力：**每个夜晚（除首夜），告知说书人一个玩家的角色（标明裂变、转职和归天）。如果写对3个（不要求连续），则天下大治。
+
+> **<font color='blue'>刘贺（白）（可选出）</font>**
+>
+> - **能力：**每个夜晚（除首夜），选择两个玩家，一个中毒，一个附体无效。
+> - **裂变<font color='red'>逆贼</font>：**<font color='red'>刘贺（黑）</font>
+> - **归天<font color='orange'>英灵</font>：**<font color='orange'>海昏侯</font>
+
+> **<font color='orange'>海昏侯（只能归天产生）</font>**
+>
+> - **能力：**游戏限一次，夜晚（除首夜），说书人可能选择一个<font color='red'>逆贼</font>死亡。
+
+<div style="page-break-after:always"></div>
+
+> **<font color='blue'>桑弘羊（可选出）</font>**
+>
+> - **能力1：**除首夜，<font color='blue'>儒生</font>中毒。
+>
+> - **能力2：**游戏限一次，白天的公聊阶段，公开宣称“盐铁会议”，如果<font color='blue'>儒生</font>全部死亡，则天下大治。同一个白天，“巫蛊之祸”和“盐铁会议”的效果抵消。
+>
+> - **归天<font color='orange'>英灵</font>：**<font color='orange'>酷吏</font>
+
+> **<font color='orange'>酷吏（只能归天产生）</font>**
+>
+> - **能力：**每个夜晚（除首夜），说书人选择并杀死一个存活的<font color='blue'>老百姓</font>。
+
+> **<font color='blue'>老百姓（可重复存在）（可选出）</font>**
+>
+> - **能力1：**你会抽取到一个不在场的任意角色，但实际上你不是这个角色，你的能力可能有效（包括裂变、归天和转职）。你抽取到不在场的<font color='red'>天子</font>，你可能导致玩家裂变<font color='red'>逆贼</font>，你也可能导致玩家死亡。<font color='blue'>老百姓</font>裂变<font color='red'>逆贼</font>，该<font color='red'>逆贼</font>仍是<font color='blue'>善良阵营</font>；如果<font color='blue'>老百姓</font>死亡，该<font color='red'>逆贼</font>失去裂变，且该<font color='red'>逆贼</font>变回自己原本的角色。除<font color='blue'>张良（白）</font>和<font color='orange'>酷吏</font>，无论任何验证角色的能力，都会验到你抽取的角色，而不是<font color='blue'>老百姓</font>。
+> - **能力2：**如果你存活，则你的票无效。如果你死亡，则你获得投票权，且数量无限。你不会因为被<font color='red'>吕后党羽</font>杀死，而失去死人票。
+> - **能力3：**如果你死亡，则你得知自己就是<font color='blue'>老百姓</font>。
+
+> **<font color='blue'>泗水亭长（只能转职产生）</font>**
+>
+> - **能力：**每个夜晚（除首夜），<font color='blue'>萧何张良（白）</font><font color='red'>萧何张良（黑）</font>的能力，你任选其一使用。
+>
+> - **转职：**不能说书人选出，只能转职产生。
+
+----
+
+# **<font color='blue'>儒生（外来者）（6个选出）（3个归天）</font>**
+
+> **<font color='blue'>郦食其（可选出）</font>**
+>
+> - **能力1：**每个夜晚，<font color='blue'>郦食其</font>选择一个角色名。如果玩家叫到该角色名，则<font color='blue'>郦食其</font>必须回答“我在，我就是xxx”。
+>
+> - **能力2：**白天的公聊阶段，<font color='blue'>郦食其</font>不能公聊。如果公聊，则下一个夜晚，<font color='blue'>郦食其</font>死亡。可以私聊。
+>
+> - **能力2：**白天的提名阶段，如果<font color='blue'>郦食其</font>提名玩家，则该玩家直接处决，且白天继续。
+>
+> - **归天<font color='orange'>英灵</font>：**<font color='orange'>人肉汤</font>
+
+> **<font color='orange'>人肉汤（只能归天产生）</font>**
+>
+> - **能力1：**除首夜，<font color='blue'>百官</font>中毒。
+> - **能力2：**<font color='blue'>桑弘羊</font>不会让<font color='orange'>人肉汤</font>中毒。
+
+> **<font color='blue'>贾谊（可选出）</font>**
+>
+> - **能力1：**处决玩家需要的最低票数为：当前存活玩家数减去当前白天数。死人票可以替代活人票。
+>
+> - **能力2：**使得<font color='blue'>郦食其</font>的能力2无效。
+>
+> - **能力3：**使得<font color='orange'>许皇后</font>的附体提名效果无效。
+>
+> - **归天<font color='orange'>英灵</font>：**<font color='orange'>过秦论</font>
+
+> **<font color='orange'>过秦论（只能归天产生）</font>**
+>
+> - **能力：**处决玩家需要的最低票数为：当前存活玩家数
+
+> **<font color='blue'>董仲舒（可选出）</font>**
+>
+> - **能力：**每天夜晚，说书人投六面骰，1-3无事发生，4-6发生灾异。说书人选择一个玩家，触发裂变、转职或归天。如果该玩家不能裂变、转职或归天，则该玩家死亡。被灾异归天的玩家，会成为存活的归天玩家，该存活的归天玩家不能再次归天。裂变优先转职优先归天。
+> - **归天<font color='orange'>英灵</font>：**<font color='orange'>天人感应</font>
+
+> **<font color='orange'>天人感应（只能归天产生）</font>**
+>
+> - **灾异：**每天夜晚（除首夜），说书人选择一个玩家，触发裂变、转职或归天。如果该玩家不能裂变、转职或归天，则该玩家死亡。被灾异归天的玩家，会成为存活的归天玩家，该存活的归天玩家不能再次归天。裂变优先转职优先归天。
+
+> **<font color='blue'>刘向（可选出）</font>**
+>
+> - **能力：**所有玩家看不到投票结果，只得知处决结果。
+>
+> - **归天<font color='orange'>英灵</font>：**<font color='orange'>伪儒</font>
+
+> **<font color='orange'>伪儒（只能归天产生）</font>**
+>
+> - **能力：**游戏限一次，夜晚（除首夜），<font color='red'>天子</font>选择一个玩家，把他裂变为相对应的<font color='red'>逆贼</font>。如果该玩家没有相对应的裂变<font color='red'>逆贼</font>，则该玩家死亡。
+
+> **<font color='blue'>王莽（可选出）</font>**
+>
+> - **能力：**每天夜晚，说书人投六面骰，1-5无事发生，6<font color='blue'>王莽</font>转职为<font color='red'>新朝天子</font>。
+>
+> - **转职：**<font color='green'>新朝天子</font>。
+
+<div style="page-break-after:always"></div>
+
+> **<font color='blue'>陈胜（可选出）</font>**
+>
+> - **能力：**首夜，产生的第一个裂变<font color='red'>逆贼</font>，其裂变<font color='red'>逆贼</font>的角色转移为<font color='blue'>陈胜</font>。例如，首夜第一个裂变，<font color='blue'>萧何（白）</font>裂变为<font color='red'>萧何（黑）</font>，因为<font color='blue'>陈胜</font>在场，裂变转移，<font color='blue'>陈胜</font>裂变为<font color='red'>萧何（黑）</font>，<font color='blue'>萧何（白）</font>没有裂变。
+>
+> - **转职：**首夜，如果<font color='blue'>陈胜</font>没有裂变，则<font color='blue'>陈胜</font>转职为<font color='green'>张楚王</font>。
+
+# **<font color='red'>逆贼（爪牙）（6个裂变）（1个归天）</font>**
+
+> **<font color='red'>萧何（黑）（只能裂变产生）</font>**
+>
+> - **能力：**每个夜晚，获得一张额外的死人票，可累计。<font color='red'>萧何（黑）</font>死亡，所有累计的死人票清零。
+
+> **<font color='red'>张良（黑）（只能裂变产生）</font>**
+>
+> - **能力：**每个夜晚，制造一个张良计，视为以下<font color='orange'>英灵</font>使用：<font color='orange'>冠军侯</font>、<font color='orange'>飞将军</font>、<font color='orange'>酷吏</font>、<font color='orange'>人肉汤</font>、<font color='orange'>过秦论</font>、<font color='orange'>天人感应</font>。英灵的效果持续一个夜晚加一个白天。不可重复选。
+
+> **<font color='red'>霍光（黑）（只能裂变产生）</font>**
+>
+> - **能力1：**每个夜晚，选择和<font color='red'>天子</font>位置互换。
+
+> **<font color='red'>李少君（黑）（只能裂变产生）</font>**
+>
+> - **能力：**每个白天的公聊阶段，可以公开宣称“服丹药”，选择一名玩家服下丹药。如果该玩家可以裂变、转职或归天，则该玩家立刻裂变、转职或归天。如果该玩家不能裂变、转职或归天，则该玩家死亡。被丹药归天的玩家，会成为存活的归天玩家，该存活的归天玩家不能再次归天。不能连续两天喂同一个玩家丹药。裂变优先于转职优先于归天。
+
+> **<font color='red'>刘贺（黑）（只能裂变产生）</font>**
+>
+> - **能力：**游戏限一次，白天的公聊阶段，公开宣称“称帝登基”。如果该白天，<font color='red'>天子</font>存活，则无事发生。如果该白天，<font color='red'>天子</font>死亡，则天下大乱。
+> - **归天<font color='orange'>英灵</font>：**<font color='orange'>汉废帝</font>
+
+> **<font color='orange'>汉废帝（只能归天产生）</font>**
+>
+> - **能力：**唯有处决<font color='orange'>汉废帝</font>，才能天下大治。
+
+> **<font color='red'>吕后党羽（可重复存在）（只能裂变产生）</font>**
+>
+> - **能力1：**每个夜晚（除首夜），选择一个玩家，杀死他。如果玩家被杀死，则失去死人票。
+>
+> - **能力2：**8人及以下，<font color='red'>吕后党羽</font>的数量上限是1（包括死去的）。12人及以下，<font color='red'>吕后党羽</font>的数量上限是2（包括死去的）。13人及以上，<font color='red'>吕后党羽</font>的数量上限是3（包括死去的）。
+
+---
+
+# **<font color='red'>天子（恶魔）（4个选出）（2个转职）</font>**
+
+> **<font color='red'>刘邦（可选出）</font>**
+>
+> - **能力1：**每个夜晚，选择一个和自己或<font color='red'>逆贼</font>邻座的玩家，无视裂变的相对应规则，把他裂变为任意<font color='red'>逆贼</font>。
+> - **能力2：**每个夜晚（除首夜），可以调整一个<font color='red'>逆贼</font>的角色。
+> - **能力3：**5-8人，你裂变的<font color='red'>逆贼</font>的数量上限是1（包括死去的）。9-12人，你裂变的<font color='red'>逆贼</font>的数量上限是2（包括死去的）。13人及以上，你裂变的<font color='red'>逆贼</font>的数量上限是3（包括死去的）。
+
+> **<font color='red'>吕后（可选出）</font>**
+>
+> - **能力1：**<font color='red'>吕后</font>在场，<font color='blue'>周勃</font>一定在场，<font color='red'>吕后</font>知道<font color='blue'>周勃</font>是谁。
+>
+> - **能力2：**每个夜晚，<font color='red'>吕后</font>选择一个玩家，无视裂变的相对应规则，把他裂变为<font color='red'>吕后党羽</font>。
+
+> **<font color='red'>刘彻（可选出）</font>**
+>
+> - **能力1：**首夜，选择1-3个隔座玩家，把他们全部裂变为相对应的<font color='red'>逆贼</font>。如果该玩家没有相对应的裂变<font color='red'>逆贼</font>，则该玩家死亡。
+>
+> - **能力2：**游戏限一次，白天公开宣称“巫蛊之祸”，如果<font color='blue'>儒生</font>全部死亡，则天下大乱。同一个白天，“巫蛊之祸”和“盐铁会议”的效果抵消。
+>
+> - **能力3：**每个偶数夜晚，选择一个玩家，杀死他。
+
+> **<font color='red'>刘询（可选出）</font>**
+>
+> - **能力1：**无法裂变<font color='red'>逆贼</font>。
+>
+> - **能力2：**每个夜晚（除首夜），选择三个玩家被<font color='orange'>许皇后</font>附体。白天的提名阶段，如果被附体玩家提名，则被提名玩家直接处决，且白天继续。此效果不影响<font color='red'>刘询</font>。
+>
+> - **能力3：**如果<font color='blue'>霍光（白）</font><font color='red'>霍光（黑）</font>在场且存活，<font color='orange'>许皇后</font>附体增加中毒效果。
+
+> **<font color='red'>国士无双（只能转职产生）</font>**
+>
+> - **能力1：**无法裂变<font color='red'>逆贼</font>。
+>
+> - **能力2：**所有裂变、转职和归天都会失败，原本的裂变、转职和归天角色成为<font color='red'>国士无双</font>的兵符。
+>
+> - **兵符：**不需要<font color='red'>国士无双</font>公开宣称，改由说书人公开宣称，<font color='red'>国士无双</font>可以使用兵符的能力。
+
+> **<font color='red'>傀儡皇帝（只能转职产生）</font>**
+>
+> - **能力1：**无法裂变<font color='red'>逆贼</font>。
+>
+> - **能力2：**唯有处决<font color='orange'>博望侯</font>，才能天下大治。
+
+----
+
+# **<font color='green'>陈涉世家（独赢）（1个转职）</font>**
+
+> **<font color='green'>张楚王（只能转职产生）</font>**
+>
+> - **胜利方式：**不属于任何阵营。在<font color='blue'>善良阵营</font>胜利前，每个夜晚（除首夜），告知说书人<font color='red'>天子</font>和<font color='red'>逆贼</font>是谁，如果答对，则<font color='green'>张楚王</font>独赢。
+
+----
+
+# **<font color='green'>王莽篡汉（独赢）（1个转职）</font>**
+
+> **<font color='green'>新朝天子（只能转职产生）</font>**
+>
+> - **能力：**每个夜晚，任命一个大司徒，一个大司马，一个大司命。下一个夜晚，如果被任命的玩家没有能正确说出自己的职位，则死亡。
+>
+> - **胜利方式：**不属于任何阵营。除<font color='green'>新朝天子</font>以外，所有玩家死亡。
+
+----
